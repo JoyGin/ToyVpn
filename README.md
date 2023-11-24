@@ -78,3 +78,5 @@ sudo iptables -t nat -A POSTROUTING -o ens33 -j MASQUERADE
 2. [Android VpnService使用总结](https://github.com/asdzheng/vpnservices)
 
 3. [Linux Tun/Tap 介绍](https://www.zhaohuabing.com/post/2020-02-24-linux-taptun/)
+
+4.[VPN 原理与实战开发](https://xzcoder.com/posts/network/05-simple-vpn.html)
